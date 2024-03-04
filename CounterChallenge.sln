@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CounterChallenge", "CounterChallenge.csproj", "{58FEA408-D967-4C74-BE93-562B24E8231F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FEA408-D967-4C74-BE93-562B24E8231F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FEA408-D967-4C74-BE93-562B24E8231F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FEA408-D967-4C74-BE93-562B24E8231F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FEA408-D967-4C74-BE93-562B24E8231F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058150E3-D06E-4F2B-BBA7-5D7B584F1BDD}
+	EndGlobalSection
+EndGlobal
